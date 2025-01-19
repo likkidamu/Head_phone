@@ -15,7 +15,7 @@ const Footer = () => {
           <AiFillInstagram style={{ fontSize: "24px", color: "#E4405F" }} />
         </a>
         <a 
-          href="damodharport.netlify.app" 
+          href="https://damodharport.netlify.app/" 
           target="_blank" 
           rel="noopener noreferrer"
           aria-label="Profile"
